@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/autobalans/static/css/main.3225ee0a.css",
+    "main.js": "/autobalans/static/js/main.a499a61f.js",
+    "static/media/bootstrap-icons.woff?": "/autobalans/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/autobalans/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "index.html": "/autobalans/index.html",
+    "main.3225ee0a.css.map": "/autobalans/static/css/main.3225ee0a.css.map",
+    "main.a499a61f.js.map": "/autobalans/static/js/main.a499a61f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3225ee0a.css",
+    "static/js/main.a499a61f.js"
+  ]
+}
